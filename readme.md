@@ -151,8 +151,6 @@ BEGIN
 END;
 ```
 
-
-
 ## Python
 
 ### Objetivo
@@ -356,7 +354,7 @@ A solução foi dividida em três partes:
            return None
    ```
    
-   A função acima é executada pelo seguinte código na função `get_item_data` e em seguida um arquivo chamado items.json é escrito no diretório ./data:
+   A função acima é executada pelo seguinte código na função `get_item_data` e em seguida um arquivo chamado items.json é escrito no diretório `python\data\items.json`:
    
    ```python
    # varre os resultados do endpoint de busca e realiza o metodo get no endpoint de item
@@ -370,7 +368,7 @@ A solução foi dividida em três partes:
 
 3. Escrever o resultado em um arquivo .csv (Comma-separated values) desnormalizando o JSON obtido no passo anterior.
    
-   O arquivo `elt_items.py` realiza o processo de ETL (Extract, Transform and Load) do arquivo items.json desnormalizando e tratados os dados obtidos.
+   O arquivo `elt_items.py` realiza o processo de ETL (Extract, Transform and Load) do arquivo items.json desnormalizando e tratando os dados obtidos.
    
    A função `etl_items_pyspark` realiza a tarefa citada.
    
