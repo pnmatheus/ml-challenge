@@ -1,3 +1,4 @@
+-- Sintaxe baseada no PostgreSQL
 CREATE TABLE cliente (
     id_cliente int CONSTRAINT pk_cliente PRIMARY KEY,
     nome varchar(50) NOT NULL,
