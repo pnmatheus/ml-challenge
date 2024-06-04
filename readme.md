@@ -34,7 +34,7 @@ Levando em conta o modelo de e-commerce que gerenciamos, temos algumas entidades
 
 ### Diagrama Entidade Relacionamento
 
-![title][](.\assets\der_ml_challenge.png)
+![title][](assets/der_ml_challenge.png)
 
 ### Scripts
 
