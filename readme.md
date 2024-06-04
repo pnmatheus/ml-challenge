@@ -28,7 +28,7 @@ A ferramenta escolhida para a análise foi o Tableau, abaixo segue o link para o
 
 ### Conclusão
 
-Podemos observar um salto exponencial do percentual da população utilizando internet com a popularização de redes sociais como Facebook e Instagram, esse efeito também se deve a uma maior acessibilidade aos smartphones. Este crescimento é notado em toda extenção e segue uma têndencia de aumento, visto que temos a população de idosos e crianças acessando mais a internet.
+Podemos observar um salto exponencial do percentual da população utilizando internet com a popularização de redes sociais como Facebook e Instagram, esse efeito também se deve a uma maior acessibilidade aos smartphones. Este crescimento é notado em toda extensão e segue uma tendência de aumento, visto que temos a população de idosos e crianças acessando mais a internet.
 
 ## SQL
 
