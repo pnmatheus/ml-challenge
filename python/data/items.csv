@@ -1,0 +1,131 @@
+;id;site_id;title;category_id;price;base_price;original_price;city_name;state_name;country_name;brand;color;engine;fipe_price;kilometers;model;transmission;vehicle_year;transmission_type
+0;MLB2221386163;MLB;Volkswagen Polo 1.0 200 Tsi Comfortline Aut Okm;MLB1744;97899.0;97899.0;0.0;São Paulo Zona Sul;São Paulo;Brasil;Volkswagen;Prateado;1.0;90541.0;0.0;Polo;Automática;2022;Automática
+1;MLB3656689219;MLB;Volkswagen Polo 200tsi 1.0 Turbo Highline;MLB1744;80000.0;80000.0;0.0;Osasco;São Paulo;Brasil;Volkswagen;Cinza-escuro;1.0;80282.0;93000.0;Polo;Automática;2019;Automática
+2;MLB3662549975;MLB;Volkswagen Polo 1.0 200 Tsi Comfortline Automático;MLB1744;84900.0;84900.0;0.0;Diadema;São Paulo;Brasil;Volkswagen;Preto;1.0;90642.0;52515.0;Polo;AUTOMÁTICO;2022;Automática
+3;MLB3663056289;MLB;Volkswagen Polo Comfortline 1.0 Tsi 200 Flex Automatico;MLB1744;89900.0;89900.0;0.0;Curitiba;Paraná;Brasil;Volkswagen;Branco;1.0;90642.0;43243.0;Polo;Automática;2022;Automática
+4;MLB3680472567;MLB;Volkswagen Polo 2022 1.0 5p;MLB1744;69000.0;69000.0;0.0;Formiga;Minas Gerais;Brasil;Volkswagen;;1.0;71148.0;20000.0;Polo;Manual;2022;Manual
+5;MLB3681898905;MLB;Vw Polo Comfortline 1.0 Tsi Flex 2022;MLB1744;90890.0;90890.0;0.0;São Paulo Zona Norte;São Paulo;Brasil;Volkswagen;Branco;1.0;0.0;13600.0;Polo;Automática;2022;Automática
+6;MLB3682595533;MLB;Hyundai Hb20 Evolution 1.0 Aut Flex 12v  2022;MLB1744;82990.0;82990.0;0.0;Bebedouro;São Paulo;Brasil;Hyundai;Preto;1.0;68694.0;39962.0;HB20;Automática;2022;Automática
+7;MLB3685761861;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;80020.0;80020.0;0.0;Porto Alegre;Rio Grande do Sul;Brasil;Hyundai;Prata;1.0;77811.0;55455.0;HB20;Automática;2022;Automática
+8;MLB3686756441;MLB; Hb20 Platinum Plus Bluelink 1.0 Turbo (flex) (aut);MLB1744;81880.0;81880.0;0.0;Campinas;São Paulo;Brasil;Hyundai;Preto;1.0;83025.0;58770.0;HB20;Automática;2022;Automática
+9;MLB3686757621;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;82850.0;82850.0;0.0;Natal;Rio Grande do Norte;Brasil;Hyundai;Prata;1.0;77811.0;53706.0;HB20;Automática;2022;Automática
+10;MLB3686771211;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;78850.0;78850.0;0.0;Fortaleza;Ceará;Brasil;Hyundai;Prata;1.0;77811.0;59543.0;HB20;Automática;2022;Automática
+11;MLB3686849029;MLB;Volkswagen Polo 2022 1.0 Tsi Comfortline 200 Aut. 5p Marchas;MLB1744;96800.0;96800.0;0.0;São Paulo Zona Norte;São Paulo;Brasil;Volkswagen;;1.0;90415.0;24000.0;Polo;Automática;2022;Automática
+12;MLB3687586469;MLB;Chevrolet Onix Sedan Plus Ltz 1.0 12v Tb Flex 2022;MLB1744;84500.0;84500.0;0.0;São Paulo Zona Norte;São Paulo;Brasil;Chevrolet;Prateado;1.0;84798.0;29178.0;Onix;Automática;2022;Automática
+13;MLB3687602707;MLB;Volkswagen Polo 1.0 200 Tsi Comfortline;MLB1744;89900.0;89900.0;0.0;São Paulo Zona Leste;São Paulo;Brasil;Volkswagen;Branco;1.0;0.0;44700.0;Polo;Automática;2022;Automática
+14;MLB3689238259;MLB;Polo Confortline 1.0 Tsi Flex;MLB1744;89900.0;89900.0;0.0;São Bernardo do Campo;São Paulo;Brasil;Volkswagen;Cinza-escuro;1.0;89919.0;36772.0;Polo;Automática;2022;Automática
+15;MLB3690220937;MLB;Polo 1.0 Tsi Cl Flex Automatico 2022;MLB1744;96900.0;96900.0;0.0;São Paulo Zona Norte;São Paulo;Brasil;Volkswagen;Cinza-escuro;1.0;0.0;24700.0;Polo;Automática;2022;Automática
+16;MLB3690239207;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;79640.0;79640.0;0.0;Fortaleza;Ceará;Brasil;Hyundai;Prata;1.0;0.0;57655.0;HB20;Automática;2022;Automática
+17;MLB3693791015;MLB;Polo 1.0 200 Tsi Higline Aut;MLB1744;90990.0;90990.0;0.0;Ribeirão Preto;São Paulo;Brasil;Volkswagen;Preto;1.0;0.0;61886.0;Polo;Automática;2022;Automática
+18;MLB3694589823;MLB; Hb20 Sport Bluelink 1.0 Turbo (flex) (aut);MLB1744;81370.0;81370.0;0.0;São Paulo Centro;São Paulo;Brasil;Hyundai;Prata;1.0;0.0;61409.0;HB20;Automática;2022;Automática
+19;MLB3695094717;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;81650.0;81650.0;0.0;Bauru;São Paulo;Brasil;Hyundai;Cinza;1.0;0.0;58857.0;HB20;Automática;2022;Automática
+20;MLB3695854977;MLB; Hb20 Platinum Bluelink 1.0 Turbo (flex) (aut);MLB1744;78990.0;78990.0;0.0;Guarulhos;São Paulo;Brasil;Hyundai;Preto;1.0;0.0;51123.0;HB20;Automática;2022;Automática
+21;MLB3696436977;MLB;Chevrolet Onix 1.0 Turbo Flex Plus Lt Automático;MLB1744;91900.0;91900.0;0.0;Jundiaí;São Paulo;Brasil;Chevrolet;Preto;1.0;0.0;60914.0;Onix;Automática;2022;Automática
+22;MLB3696620273;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;81420.0;81420.0;0.0;Recife;Pernambuco;Brasil;Hyundai;Prata;1.0;0.0;59070.0;HB20;Automática;2022;Automática
+23;MLB3698799445;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;82120.0;82120.0;0.0;João Pessoa;Paraíba;Brasil;Hyundai;Cinza;1.0;0.0;50578.0;HB20;Automática;2022;Automática
+24;MLB3699762067;MLB;Volkswagen Novo Polo 1.6 Tsi Aut 2022;MLB1744;92900.0;92900.0;0.0;Guarulhos;São Paulo;Brasil;Volkswagen;Cinza;1.0;0.0;18153.0;Polo Track;Automática;2022;Automática
+25;MLB3700358767;MLB;Chevrolet Onix Ltz Preto 2022;MLB1744;82900.0;82900.0;0.0;São Paulo Zona Leste;São Paulo;Brasil;Chevrolet;Preto;1.0;0.0;13000.0;Onix;Manual;2022;Manual
+26;MLB3701873097;MLB;Chevrolet Onix Sedan Plus Ltz 1.0 12v Tb Flex Aut. 2022/...;MLB1744;92900.0;92900.0;0.0;Ribeirão Preto;São Paulo;Brasil;Chevrolet;Branco;1.0;0.0;28000.0;Onix;Automática;2023;Automática
+27;MLB3703584085;MLB;Onix 1.0 Turbo Flex Premier Automático;MLB1744;83900.0;83900.0;0.0;São José dos Campos;São Paulo;Brasil;Chevrolet;Prata;1.0;0.0;30971.0;Onix;Automática;2022;Automática
+28;MLB3703712623;MLB;Chevrolet Onix 1.0 Turbo Lt Mecanico 2022;MLB1744;71900.0;71900.0;0.0;Santo André;São Paulo;Brasil;Chevrolet;Branco;;0.0;36322.0;Onix;Manual;2022;Manual
+29;MLB3703888401;MLB;Chevrolet Onix 1.0 Turbo Flex Plus Lt Automático;MLB1744;83900.0;83900.0;0.0;São Paulo Zona Leste;São Paulo;Brasil;Chevrolet;Prateado;1.0 TURBO FLEX PLUS LT AUTOMÁTICO;0.0;102000.0;Onix;Automática;2022;Automática
+30;MLB3704332309;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;83270.0;83270.0;0.0;Fortaleza;Ceará;Brasil;Hyundai;Branco;1.0;0.0;43519.0;HB20;Automática;2022;Automática
+31;MLB3706057323;MLB;Chevrolet Onix Premier 2022;MLB1744;88890.0;88890.0;0.0;São Paulo Zona Sul;São Paulo;Brasil;Chevrolet;Vermelho;1.0;98013.0;22000.0;Onix;Automática sequencial;2022;Automática
+32;MLB3709401199;MLB;Chevrolet Onix 1.0 Turbo Rs 2022;MLB1744;89990.0;89990.0;0.0;São Paulo Zona Sul;São Paulo;Brasil;Chevrolet;Vermelho;1.0;0.0;51997.0;Onix;Automática;2022;Automática
+33;MLB3709907765;MLB;Chevrolet Onix Flex Automático;MLB1744;86900.0;86900.0;0.0;São Paulo Zona Sul;São Paulo;Brasil;Chevrolet;Preto;1.0;84798.0;34094.0;Onix;Automática;2022;Automática
+34;MLB3711265667;MLB;Chevrolet Onix 1.0 Turbo Flex Ltz Automático;MLB1744;89900.0;89900.0;0.0;Belo Horizonte;Minas Gerais;Brasil;Chevrolet;Branco;1.0;0.0;54007.0;Onix;Automática;2022;Automática
+35;MLB3711473545;MLB; Hb20 Platinum Plus Bluelink 1.0 Turbo (flex) (aut);MLB1744;84390.0;84390.0;0.0;São Bernardo do Campo;São Paulo;Brasil;Hyundai;Cinza;1.0;0.0;58739.0;HB20;Automática;2022;Automática
+36;MLB3711925943;MLB;Chevrolet Onix Sedan Plus Lt 1.0 12v Tb Flex Aut. 2022/2...;MLB1744;91999.0;91999.0;0.0;Bragança Paulista;São Paulo;Brasil;Chevrolet;Prata;1.0;0.0;23093.0;Onix;Automática;2023;Automática
+37;MLB3712105801;MLB;Onix Sedan Plus Lt 1.0 12v Flex 4p Mec.;MLB1744;76790.0;76790.0;0.0;Santo André;São Paulo;Brasil;Chevrolet;Prateado;1.0;0.0;72000.0;Onix plus;Manual;2022;Manual
+38;MLB3712857679;MLB;Chevrolet Onix 1.0 Turbo Flex Plus Lt Automático;MLB1744;79990.0;79990.0;0.0;São Paulo Zona Leste;São Paulo;Brasil;Chevrolet;Prateado;1.0;0.0;64000.0;Onix;Automática;2022;Automática
+39;MLB3713404571;MLB; Hb20 1.0 Evolution Turbo (aut) (flex);MLB1744;77800.0;77800.0;0.0;Guarulhos;São Paulo;Brasil;Hyundai;Branco;1.0;0.0;55038.0;HB20;Automática;2022;Automática
+40;MLB3713659231;MLB;Onix 1.0 Turbo At 2022 ;MLB1744;79890.0;79890.0;0.0;Belo Horizonte;Minas Gerais;Brasil;Chevrolet;Cinza;1.0;0.0;52000.0;Onix;Automática;2022;Automática
+41;MLB3714093421;MLB;Chevrolet Onix 1.0 Turbo Premier;MLB1744;84900.0;84900.0;0.0;São Bernardo do Campo;São Paulo;Brasil;Chevrolet;Azul;1.0;0.0;40000.0;Onix;Automática;2022;Automática
+42;MLB3714158321;MLB;Volkswagen Polo 1.0 200 Tsi Highline Automatico;MLB1744;98800.0;98800.0;0.0;São Paulo Zona Leste;São Paulo;Brasil;Volkswagen;PRATA;1.0;0.0;29000.0;Polo;Automática;2022;Automática
+43;MLB3715287595;MLB;Chevrolet Onix Premier 2 1.0 Tb Automático 2022 Unico Dono;MLB1744;89900.0;89900.0;0.0;São Bernardo do Campo;São Paulo;Brasil;Chevrolet;Prateado;1.0;0.0;50000.0;Onix;Automática;2022;Automática
+44;MLB3717025497;MLB;Chevrolet Onix Plus 2022 Lt 1.0 Turbo Único Dono,  54 Mil Km;MLB1744;75900.0;75900.0;0.0;Atibaia;São Paulo;Brasil;Chevrolet;Prateado;1.0;0.0;54000.0;Onix plus;Manual;2022;Manual
+45;MLB3717717655;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;80680.0;80680.0;0.0;Belém;Pará;Brasil;Hyundai;Branco;1.0;0.0;50341.0;HB20;Automática;2022;Automática
+46;MLB3717988123;MLB; Hb20 Platinum Plus Bluelink 1.0 Turbo (flex) (aut);MLB1744;83550.0;83550.0;0.0;Santo André;São Paulo;Brasil;Hyundai;Prata;1.0;0.0;55735.0;HB20;Automática;2022;Automática
+47;MLB3718877163;MLB;Chevrolet Onix 1.0 Plus Turbo At Sedan 2022;MLB1744;85900.0;85900.0;0.0;Taubaté;São Paulo;Brasil;Chevrolet;Prateado;1.0;0.0;43000.0;Onix plus;Automática;2022;Automática
+48;MLB3719288059;MLB;Chevrolet Onix Onix Hatch Prem. 1.0 12v Tb Flex 5p Aut. Fle;MLB1744;89900.0;89900.0;0.0;Osasco;São Paulo;Brasil;Chevrolet;Azul;1.0;0.0;61816.0;Onix;Automática;2022;Automática
+49;MLB3721169319;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;84130.0;84130.0;0.0;São Paulo Centro;São Paulo;Brasil;Hyundai;Preto;1.0;77771.0;49196.0;HB20;Automática;2022;Automática
+50;MLB3721269395;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;83290.0;83290.0;0.0;São Paulo Centro;São Paulo;Brasil;Hyundai;Cinza;1.0;77771.0;59313.0;HB20;Automática;2022;Automática
+51;MLB3721300085;MLB;Chevrolet Onix 1.0 Turbo Flex Lt Manual;MLB1744;72900.0;72900.0;0.0;Belo Horizonte;Minas Gerais;Brasil;Chevrolet;Branco;1.0;71967.0;77246.0;Onix;Manual;2022;Manual
+52;MLB3721300359;MLB;Chevrolet Onix Plus 10tat Pr1 2022;MLB1744;87900.0;87900.0;0.0;Ribeirão Preto;São Paulo;Brasil;Chevrolet;Prateado;1.0;88204.0;57000.0;Onix plus;Automática;2022;Automática
+53;MLB3721356289;MLB;Chevrolet Onix 1.0 Turbo Flex Plus Lt Automático;MLB1744;89900.0;89900.0;0.0;Belo Horizonte;Minas Gerais;Brasil;Chevrolet;Cinza-escuro;1.0;75259.0;0.0;Onix;Automática;2022;Automática
+54;MLB3721466073;MLB;Chevrolet Onix 1.0 Turbo Flex Lt Automático;MLB1744;90990.0;90990.0;0.0;Osasco;São Paulo;Brasil;Chevrolet;Branco;1.0;82352.0;20564.0;Onix;Automática;2022;Automática
+55;MLB3721679297;MLB;Chevrolet Onix Hatch Lt 1.0 12v Tb Flex 5p Aut. 2022/202...;MLB1744;88900.0;88900.0;0.0;São José dos Campos;São Paulo;Brasil;Chevrolet;Branco;1.0;86083.0;36862.0;Onix;Automática;2023;Automática
+56;MLB3721917849;MLB;Chevrolet Onix Hatch Lt 1.0 12v Tb Flex 5p Aut. 2022/202...;MLB1744;88900.0;88900.0;0.0;Pouso Alegre;Minas Gerais;Brasil;Chevrolet;Branco;1.0;86083.0;36862.0;Onix;Automática;2023;Automática
+57;MLB3722191937;MLB; Hb20 1.0 Evolution Turbo (aut) (flex);MLB1744;77410.0;77410.0;0.0;São Bernardo do Campo;São Paulo;Brasil;Hyundai;Branco;1.0;76819.0;52830.0;HB20;Automática;2022;Automática
+58;MLB3722203937;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;81650.0;81650.0;0.0;São Bernardo do Campo;São Paulo;Brasil;Hyundai;Branco;1.0;77771.0;55464.0;HB20;Automática;2022;Automática
+59;MLB4249320946;MLB;Volkswagen Polo Hatch Flex Automático;MLB1744;102900.0;102900.0;0.0;Osasco;São Paulo;Brasil;Volkswagen;Preto;1.0;92973.0;3771.0;Polo;Automática;2022;Automática
+60;MLB4513215520;MLB;Hb20 1.0 Turbo Platinum;MLB1744;78900.0;78900.0;0.0;Belo Horizonte;Minas Gerais;Brasil;Hyundai;Preto;1.0;78939.0;58000.0;HB20;Manual;2022;Manual
+61;MLB4549716140;MLB;Volkswagen Polo 1.0 Mpi Total Flex Manual;MLB1744;64900.0;64900.0;0.0;Rio de Janeiro Zona Oeste;Rio de Janeiro;Brasil;Volkswagen;Branco;1.0;71148.0;116200.0;Polo;Manual;2022;Manual
+62;MLB4556378722;MLB;Hb20 1.0 Turbo 2022;MLB1744;71990.0;71990.0;0.0;Campinas;São Paulo;Brasil;Hyundai;Prateado;1.0;78939.0;53000.0;HB20;Manual;2022;Manual
+63;MLB4556422636;MLB;Volkswagen Polo 1.0 Mpi Total Flex Manual;MLB1744;69900.0;69900.0;0.0;São Paulo Zona Norte;São Paulo;Brasil;Volkswagen;Branco;1.0;71148.0;46900.0;Polo;Manual;2022;Manual
+64;MLB4577718766;MLB;Volkswagen Polo 1.0 200 Tsi Comfortline Automático;MLB1744;91000.0;91000.0;0.0;Ponta Grossa;Paraná;Brasil;Volkswagen;Preto;1.0 200 TSI COMFORTLINE AUTOMÁTICO;89919.0;19000.0;Polo;Automática;2022;Automática
+65;MLB4587585578;MLB;Volkswagen Polo 1.0 200 Tsi Highline Automático;MLB1744;98900.0;98900.0;0.0;Três Lagoas;Mato Grosso do Sul;Brasil;Volkswagen;Branco;1.0 200 TSI HIGHLINE AUTOMÁTICO;94640.0;12600.0;Polo;Automática;2022;Automática
+66;MLB4608879226;MLB;Vw/polo Hatch Confortline 200 Tsi Turbo 1.0 12v 2018/2018 ;MLB1744;69900.0;69900.0;0.0;Contagem;Minas Gerais;Brasil;Volkswagen;Branco;1.0;70816.0;93000.0;Polo;Automática;2018;Automática
+67;MLB4617448672;MLB;Polo 1.0 200 Tsi Highline Automático;MLB1744;93000.0;93000.0;0.0;São Paulo;São Paulo;Brasil;Volkswagen;Preto;1.0;94732.0;34000.0;Polo;Automática;2022;Automática
+68;MLB4641560638;MLB;Polo Highline 200 Tsi 1.0 Flex Automatico 2022 Cinza  2 Dona;MLB1744;97990.0;97990.0;0.0;São Bernardo do Campo;São Paulo;Brasil;Volkswagen;Cinza-escuro;1.0;94732.0;26000.0;Polo;Automática;2022;Automática
+69;MLB4648925570;MLB;Chevrolet Onix 1.0 Turbo Flex Plus Ltz Automático 2021/2022;MLB1744;89900.0;89900.0;0.0;São Paulo Centro;São Paulo;Brasil;Chevrolet;Prateado;1.0;82852.0;22340.0;Onix;Manual;2022;Manual
+70;MLB4660202668;MLB;Chevrolet Onix Hatch Prem. 1.0 12v Tb Flex 5p Aut. 2022/...;MLB1744;96900.0;96900.0;0.0;Osasco;São Paulo;Brasil;Chevrolet;Prata;1.0;97526.0;17128.0;Onix;Automática;2023;Automática
+71;MLB4661937022;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;78920.0;78920.0;0.0;Recife;Pernambuco;Brasil;Hyundai;Prata;1.0;77811.0;32328.0;HB20;Manual;2022;Manual
+72;MLB4662078184;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;81390.0;81390.0;0.0;Uberlândia;Minas Gerais;Brasil;Hyundai;Prata;1.0;77811.0;56619.0;HB20;Automática;2022;Automática
+73;MLB4662927836;MLB;Onix Hatch 1.0 Turbo Flex Automático Completo 2022;MLB1744;82000.0;82000.0;0.0;Uberlândia;Minas Gerais;Brasil;Chevrolet;Branco;1.0;80065.0;52405.0;Onix;Automática sequencial;2022;Automática
+74;MLB4667043400;MLB;Hyundai Hb20 Platinum 1.0 Turbo Automático 2022;MLB1744;79800.0;79800.0;0.0;São Bernardo do Campo;São Paulo;Brasil;Hyundai;Prateado;1.0;80238.0;54000.0;HB20;Automática sequencial;2022;Automática
+75;MLB4667588036;MLB;Hyundai Hb20 Sport 1.0 Turbo Flex Automático 2022/2022;MLB1744;84990.0;84990.0;0.0;Barueri;São Paulo;Brasil;Hyundai;Branco;1.0;83270.0;30345.0;HB20;Automática;2022;Automática
+76;MLB4669064236;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;78360.0;78360.0;0.0;Itajaí;Santa Catarina;Brasil;Hyundai;Preto;1.0;77811.0;59670.0;HB20;Manual;2022;Manual
+77;MLB4669074832;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;81060.0;81060.0;0.0;Itajaí;Santa Catarina;Brasil;Hyundai;Cinza;1.0;77811.0;58025.0;HB20;Automática;2022;Automática
+78;MLB4670778766;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;78640.0;78640.0;0.0;Niterói;Rio de Janeiro;Brasil;Hyundai;Cinza;1.0;77811.0;56289.0;HB20;Manual;2022;Manual
+79;MLB4671367078;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;81650.0;81650.0;0.0;Campinas;São Paulo;Brasil;Hyundai;Prata;1.0;77811.0;56040.0;HB20;Automática;2022;Automática
+80;MLB4671563062;MLB;Volkswagen Polo 1.0 Tsi Comfortline;MLB1744;96900.0;96900.0;0.0;São Paulo Zona Norte;São Paulo;Brasil;Volkswagen;Cinza;1.0;0.0;24000.0;Polo;Automática;2022;Automática
+81;MLB4677931186;MLB;Hb20 1.0  Evolution  2022 -com Motor 1.0 Turbo E Assistentes;MLB1744;67900.0;67900.0;0.0;Manaus;Amazonas;Brasil;Hyundai;Prateado;1.0;0.0;34605.0;HB20;Manual;2022;Manual
+82;MLB4679911216;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;81000.0;81000.0;0.0;Rio de Janeiro Centro;Rio de Janeiro;Brasil;Hyundai;Preto;1.0;0.0;50236.0;HB20;Automática;2022;Automática
+83;MLB4685593482;MLB;Onix 1.0 Turbo Flex Ltz Automático;MLB1744;89900.0;89900.0;0.0;São José dos Campos;São Paulo;Brasil;Chevrolet;Preto;1.0;0.0;71988.0;Onix;Automática;2022;Automática
+84;MLB4685603704;MLB;Volkswagen Polo Hatch Highline 1.0 Turbo Flex;MLB1744;86000.0;86000.0;0.0;Bauru;São Paulo;Brasil;Volkswagen;Branco;1.0;0.0;48080.0;Polo Hatch;Automática;2020;Automática
+85;MLB4685701788;MLB;Chevrolet Onix 1.0 Turbo Flex Plus Premier Automático;MLB1744;88500.0;88500.0;0.0;São Paulo Zona Norte;São Paulo;Brasil;Chevrolet;Preto;1.0;89082.0;47208.0;Onix;Automática;2022;Automática
+86;MLB4685878774;MLB;Chevrolet Onix Sed. Plus Prem. 1.0 12v Tb Flex Aut 2022/...;MLB1744;95790.0;95790.0;0.0;São Paulo Zona Leste;São Paulo;Brasil;Chevrolet;Preto;1.0;0.0;41073.0;Onix;Automática;2023;Automática
+87;MLB4688661596;MLB;Chevrolet Onix 1.0 Turbo Ltz Plus;MLB1744;88990.0;88990.0;0.0;São Paulo Zona Leste;São Paulo;Brasil;Chevrolet;Preto;1.0;0.0;36100.0;Onix;Automática;2022;Automática
+88;MLB4693549744;MLB;Chevrolet Onix 1.0 Turbo Flex Plus Lt Automático;MLB1744;91900.0;91900.0;0.0;Jundiaí;São Paulo;Brasil;Chevrolet;Branco;1.0;0.0;26221.0;Onix;Automática;2022;Automática
+89;MLB4693571350;MLB; Hb20 1.0 Evolution Turbo (aut) (flex);MLB1744;77030.0;77030.0;0.0;Maringá;Paraná;Brasil;Hyundai;Branco;1.0;0.0;58243.0;HB20;Automática;2022;Automática
+90;MLB4693672112;MLB;Volkswagen Polo Sedan 1.0 Cl Ad Turbo 3c;MLB1744;73500.0;73500.0;0.0;São Paulo Zona Sul;São Paulo;Brasil;Volkswagen;;;0.0;90000.0;Polo Sedan;;2019;
+91;MLB4693694394;MLB;Chevrolet Onix  1.0 Turbo Premier (flex);MLB1744;86790.0;86790.0;0.0;São Paulo Zona Leste;São Paulo;Brasil;Chevrolet;Vermelho;1.0;0.0;48500.0;Onix;Automática sequencial;2022;Automática
+92;MLB4693935958;MLB;Chevrolet Onix Sedan Plus Lt 1.0 12v Tb Flex Aut. 2022/2...;MLB1744;91999.0;91999.0;0.0;Bragança Paulista;São Paulo;Brasil;Chevrolet;Branco;1.0;0.0;17692.0;Onix;Automática;2023;Automática
+93;MLB4693963104;MLB;Chevrolet Onix Hatch Ltz 1.0 12v Tb Flex 5p Aut. 2021/20...;MLB1744;89999.0;89999.0;0.0;Bragança Paulista;São Paulo;Brasil;Chevrolet;Branco;1.0;0.0;61586.0;Onix;Automática;2022;Automática
+94;MLB4694935122;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;81800.0;81800.0;0.0;Duque de Caxias;Rio de Janeiro;Brasil;Hyundai;Branco;1.0;0.0;56850.0;HB20;Automática;2022;Automática
+95;MLB4699293012;MLB;Volkswagen Polo Sedan 1.0 Turbo;MLB1744;72000.0;72000.0;0.0;São Paulo Zona Sul;São Paulo;Brasil;Volkswagen;;;0.0;90000.0;Polo Sedan;;2019;
+96;MLB4699579346;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;80020.0;80020.0;0.0;São Paulo Centro;São Paulo;Brasil;Hyundai;Prata;1.0;0.0;59740.0;HB20;Automática;2022;Automática
+97;MLB4700661500;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;81800.0;81800.0;0.0;Rio de Janeiro Centro;Rio de Janeiro;Brasil;Hyundai;Preto;1.0;0.0;59223.0;HB20;Automática;2022;Automática
+98;MLB4703977190;MLB;Volkswagen Polo Comfort. 200 Tsi 1.0 Flex 12v Aut. 2021/...;MLB1744;92900.0;92900.0;0.0;São Paulo Zona Norte;São Paulo;Brasil;Volkswagen;Prata;1.0;0.0;35465.0;Polo;Automática;2022;Automática
+99;MLB4704054810;MLB;Chevrolet Onix 1.0 Turbo Flex Plus Ltz Automático;MLB1744;85700.0;85700.0;0.0;Belo Horizonte;Minas Gerais;Brasil;Chevrolet;Preto;1.0;0.0;40604.0;Onix;Automática;2022;Automática
+100;MLB4704116820;MLB;Chevrolet Onix Sedan Onix Sedan Plus Ltz 1.0 12v Tb Flex Au;MLB1744;86990.0;86990.0;0.0;Sumaré;São Paulo;Brasil;Chevrolet;Prateado;1.0;0.0;74917.0;Onix;Manual;2022;Manual
+101;MLB4704184730;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;80390.0;80390.0;0.0;Fortaleza;Ceará;Brasil;Hyundai;Prata;1.0;0.0;57655.0;HB20;Automática;2022;Automática
+102;MLB4707149106;MLB;Onix 1.0 Turbo Flex Plus Premier Automático;MLB1744;88490.0;88490.0;0.0;Caraguatatuba;São Paulo;Brasil;Chevrolet;Preto;1.0;89082.0;25000.0;Onix;Automática;2022;Automática
+103;MLB4707433818;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;81650.0;81650.0;0.0;Porto Alegre;Rio Grande do Sul;Brasil;Hyundai;Cinza;1.0;0.0;55138.0;HB20;Automática;2022;Automática
+104;MLB4707542616;MLB;Hyundai Hb20 Platinum Plus 1.0 Turbo Flex Aut. 2022;MLB1744;87777.0;87777.0;0.0;São Paulo Zona Leste;São Paulo;Brasil;Hyundai;Dourado;1.0;0.0;19000.0;HB20;Automática sequencial;2022;Automática
+105;MLB4708630430;MLB;Chevrolet Onix Plus 1.0 Premier Turbo 2022/2023 ( 17.200km );MLB1744;94990.0;94990.0;0.0;Santo André;São Paulo;Brasil;Chevrolet;Branco;1.0;0.0;17200.0;Onix plus;Automática sequencial;2023;Automática
+106;MLB4708730126;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;81650.0;81650.0;0.0;São Paulo Centro;São Paulo;Brasil;Hyundai;Cinza;1.0;0.0;50394.0;HB20;Automática;2022;Automática
+107;MLB4709497148;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;83360.0;83360.0;0.0;João Pessoa;Paraíba;Brasil;Hyundai;Branco;1.0;0.0;47019.0;HB20;Automática;2022;Automática
+108;MLB4713912914;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;82470.0;82470.0;0.0;São Paulo Centro;São Paulo;Brasil;Hyundai;Prata;1.0;0.0;55352.0;HB20;Automática;2022;Automática
+109;MLB4716364638;MLB;Hb20 1.0 Turbo 2022 Abaixo Da Fipe! Oportunidade!;MLB1744;77900.0;77900.0;0.0;Santos;São Paulo;Brasil;Hyundai;Prateado;1.0;0.0;27000.0;HB20;Manual;2022;Manual
+110;MLB4721410710;MLB;Chevrolet Onix Hatch Premium 2 1.0 12v Tb Flex Aut.;MLB1744;88900.0;88900.0;0.0;Suzano;São Paulo;Brasil;Chevrolet;Preto;1.0;0.0;26573.0;Onix;Automática;2022;Automática
+111;MLB4722085130;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;81650.0;81650.0;0.0;São Paulo Centro;São Paulo;Brasil;Hyundai;Prata;1.0;0.0;56036.0;HB20;Automática;2022;Automática
+112;MLB4724237024;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;79640.0;79640.0;0.0;Fortaleza;Ceará;Brasil;Hyundai;Prata;1.0;0.0;53186.0;HB20;Automática;2022;Automática
+113;MLB4725587744;MLB;Chevrolet Onix Hatch Lt 1.0 12v Tb Flex 5p Aut. 2022/202...;MLB1744;86980.0;86980.0;0.0;Osasco;São Paulo;Brasil;Chevrolet;Preto;1.0;0.0;6716.0;Onix;Manual;2023;Manual
+114;MLB4725673662;MLB;Chevrolet Onix Hatch Ltz 1.0 12v Tb Flex 5p Aut. 2022/20...;MLB1744;97999.0;97999.0;0.0;Bragança Paulista;São Paulo;Brasil;Chevrolet;Branco;1.0;0.0;10480.0;Onix;Automática;2023;Automática
+115;MLB4727757770;MLB;Onix 1.0 Turbo Flex Plus Premier Automático;MLB1744;88490.0;88490.0;0.0;Santo André;São Paulo;Brasil;Chevrolet;Preto;1.0;89082.0;25000.0;Onix;Automática;2022;Automática
+116;MLB4729161778;MLB;Chevrolet Onix 1.0 Turbo Plus Lt;MLB1744;89790.0;89790.0;0.0;Santo André;São Paulo;Brasil;Chevrolet;Prateado;1.0;0.0;29993.0;Onix;Automática;2022;Automática
+117;MLB4732287244;MLB;Volkswagen Polo Polo 1.0 200 Tsi Comfortline Automatico;MLB1744;89900.0;89900.0;0.0;São Paulo Zona Leste;São Paulo;Brasil;Volkswagen;Branco;1.0;0.0;45000.0;Polo;Automática;2022;Automática
+118;MLB4733295616;MLB;Volkswagen Polo 2022 1.0 Tsi Highline 200 Aut. 5p 6 Marchas;MLB1744;92500.0;92500.0;0.0;São Paulo Zona Norte;São Paulo;Brasil;Volkswagen;;1.0;0.0;31000.0;Polo;Automática;2022;Automática
+119;MLB4735761044;MLB;Chevrolet Onix Sedan Plus Lt 1.0 12v Tb Flex Aut. 2022/2...;MLB1744;97900.0;97900.0;0.0;Praia Grande;São Paulo;Brasil;Chevrolet;Prata;1.0;0.0;988.0;Onix;Automática;2023;Automática
+120;MLB4735869240;MLB; Hb20 Platinum Plus Bluelink 1.0 Turbo (flex) (aut);MLB1744;83970.0;83970.0;0.0;Campinas;São Paulo;Brasil;Hyundai;Preto;1.0;0.0;57667.0;HB20;Automática;2022;Automática
+121;MLB4736418992;MLB; Hb20 1.0 Evolution Turbo (aut) (flex);MLB1744;79750.0;79750.0;0.0;Guarulhos;São Paulo;Brasil;Hyundai;Prata;1.0;0.0;46269.0;HB20;Automática;2022;Automática
+122;MLB4736842792;MLB;Chevrolet Onix 1.0 Lt Turbo;MLB1744;78990.0;78990.0;0.0;Santo André;São Paulo;Brasil;Chevrolet;Branco;1.0;0.0;58000.0;Onix;Manual;2022;Manual
+123;MLB4737124372;MLB;Onix Premier Plus 1.0 Turbo Flex Aut. 2022 Preto;MLB1744;86900.0;86900.0;0.0;São Paulo Zona Leste;São Paulo;Brasil;Chevrolet;Preto;1.0;0.0;24600.0;Onix;Automática sequencial;2022;Automática
+124;MLB4737983290;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;79730.0;79730.0;0.0;Uberlândia;Minas Gerais;Brasil;Hyundai;Cinza;1.0;0.0;61356.0;HB20;Automática;2022;Automática
+125;MLB4740528198;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;82480.0;82480.0;0.0;Campinas;São Paulo;Brasil;Hyundai;Branco;1.0;0.0;45127.0;HB20;Automática;2022;Automática
+126;MLB4742237706;MLB;Volkswagen Polo 1.0 200 Tsi Comfortline Automático;MLB1744;86900.0;86900.0;0.0;São Paulo Zona Norte;São Paulo;Brasil;Volkswagen;Branco;1.0 200 TSI COMFORTLINE AUTOMÁTICO;89173.0;34034.0;Polo;Automática;2022;Automática
+127;MLB4746254100;MLB;Volkswagen Polo Polo Comfort. 200 Tsi 1.0 Flex 12v Aut. Fle;MLB1744;85900.0;85900.0;0.0;São Paulo Zona Norte;São Paulo;Brasil;Volkswagen;Prateado;;0.0;35405.0;Polo;Automática;2022;Automática
+128;MLB4746432286;MLB; Hb20 Platinum 1.0 Turbo At (flex);MLB1744;82890.0;82890.0;0.0;Campinas;São Paulo;Brasil;Hyundai;Cinza;1.0;77771.0;46759.0;HB20;Automática;2022;Automática
+129;MLB4746833330;MLB;Chevrolet Onix Sedan Plus Ltz 1.0 12v Tb Flex Mec. 2022/...;MLB1744;85900.0;85900.0;0.0;Cotia;São Paulo;Brasil;Chevrolet;Branco;1.0;84755.0;50545.0;Onix;Manual;2023;Manual

@@ -1,35 +1,13 @@
-import json
-import requests
-from configparser import ConfigParser
-
-config = ConfigParser()
-
-config.read('./conf.ini')
-
-endpoint = config['ENDPOINTS']['SEARCH_ITEM']
-
-print(endpoint)
-
-def get_itens(params):
-    try:
-        response = requests.get(
-            url=config['ENDPOINTS']['SEARCH_ITEM'],
-            params=params
-        )
-
-        if response.status_code == 200:
-            itens = response.json()
-            return itens
-    
-    except requests.exceptions.RequestException as e:
-        print('Error:', e)
-        return None
-
+from call_api import get_item_data
+from etl_items import etl_items_spark
 
 if __name__ == '__main__':
-    params = {'q':'chromecast', 'limit':1}
-
-    itens = get_itens(params=params)
-
-    for key in itens:
-        print(key)
+    try:
+        # esta função irá orquestrar a chamada da API e criação do JSON items.json
+        get_item_data()
+        
+        # ETL do arquivo items.json com as tranformações necessárias e exportação do arquivo items.csv
+        etl_items_spark()
+        
+    except Exception as e:
+        print('Exception main: ', e)
