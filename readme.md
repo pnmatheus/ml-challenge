@@ -14,6 +14,22 @@ Este projeto é um teste técnico para uma posição no Mercado Livre. O desafio
 
 ## Analytics
 
+### Objetivo
+
+Criar um painel utilizando uma ferramenta de visualização de dados, em um dos seguintes programas: MS Power BI, Tableau ou Looker. Como escopo, deve-se analisar a evolução, crescimento da internet, usuários, assinantes, etc., na Argentina e suas causas.
+
+### Solução
+
+A ferramenta escolhida para a análise foi o Tableau, abaixo segue o link para o dashboard no Tableau Public:
+
+<https://public.tableau.com/app/profile/matheus.nascimento4110/viz/dash_ml-challenge/dash?publish=yes>
+
+![title](assets/dash.png)
+
+### Conclusão
+
+Podemos observar um salto exponencial do percentual da população utilizando internet com a popularização de redes sociais como Facebook e Instagram, esse efeito também se deve a uma maior acessibilidade aos smartphones. Este crescimento é notado em toda extenção e segue uma têndencia de aumento, visto que temos a população de idosos e crianças acessando mais a internet.
+
 ## SQL
 
 ### Objetivo
