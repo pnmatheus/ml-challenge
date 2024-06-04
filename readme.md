@@ -255,7 +255,7 @@ def write_json(json_var: dict, file_name: str, mode: str) -> None:
 
 ### Diagrama da Solução
 
-![title][](.\assets\ml-challenge.png)
+![title](\assets\ml-challenge.png)
 
 ### Solução
 
