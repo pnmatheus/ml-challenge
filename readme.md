@@ -105,6 +105,12 @@ WITH vendasMes AS (
         ON c.id_categoria = d.id_categoria
     WHERE YEAR(a.data_pedido) = 2020
     and d.nome_categoria = 'Celulares'
+    GROUP BY d.nome_categoria,
+    YEAR(a.data_pedido),
+    MONTH(a.data_pedido),
+    b.id_cliente,
+    b.nome,
+    b.sobrenome
 )
 SELECT 
     nome_categoria,
@@ -118,7 +124,6 @@ SELECT
     total_transacionado
 FROM vendasMes
 WHERE posicao <= 5;
-
 
 /*
 Solicita-se popular uma nova tabela com o preço e estado dos itens no final do dia. 
